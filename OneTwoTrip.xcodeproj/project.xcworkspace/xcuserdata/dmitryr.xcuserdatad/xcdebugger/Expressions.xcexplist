@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "task1() -&gt; ():main.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data[i].distance(from: data[i].startIndex, to: range.lowerBound)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaskTwo.getArray() -&gt; [Int]:TaskTwo.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TaskOne.check() -&gt; String:TaskOne.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "stringData.distance(from: stringData.startIndex, to: range.lowerBound)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FunnyDict.isImpossible.getter:main.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "item.0.count">
+            </PersistentString>
+            <PersistentString
+               value = "item.1.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FunnyDict.init(string : String, fileName : String) -&gt; FunnyDict:main.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
